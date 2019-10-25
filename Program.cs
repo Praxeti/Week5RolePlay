@@ -7,16 +7,19 @@ namespace Week5RolePlay
     {
         static void Main(string[] args)
         {
-    List<Character> person = new List<Character>();   
+             List<Character> characters = new List<Character>();   
 
-    person.Add (new Player(50m));
+                 characters.Add (new Player(50m, 100, 22, 18));
+                 characters.Add (new Monster(50m, 100, 22, 18));
 
-foreach (Player people in person)
-{
-    Console.WriteLine($"Person is at {people.currentPosition} ");
-}
+                foreach (Character character in characters)
+                {
+                     Console.WriteLine($"Person is at {character.currentPosition} {character.Health} {character.Strength} {character.Armour} ");
+                }
 
 
-     }
+
+
+        }
     }
 }
