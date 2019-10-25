@@ -10,7 +10,7 @@ namespace Week5RolePlay
              List<Character> characters = new List<Character>();   
 
                  characters.Add (new Player(50m, 100, 22, 18));
-                 characters.Add (new Monster(50m, 100, 22, 18));
+                 characters.Add (new Monster(60m, 100, 22, 18));
 
                 foreach (Character character in characters)
                 {
