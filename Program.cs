@@ -9,11 +9,11 @@ namespace Week5RolePlay
         {
     List<Character> person = new List<Character>();   
 
-    person.Add (new Player());
+    person.Add (new Player(50m));
 
 foreach (Player people in person)
 {
-    Console.WriteLine($"Person is a ")
+    Console.WriteLine($"Person is at {people.currentPosition} ");
 }
 
 

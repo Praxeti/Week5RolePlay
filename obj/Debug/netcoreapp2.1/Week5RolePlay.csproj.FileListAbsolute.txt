@@ -9,3 +9,9 @@ F:\GitHub\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.AssemblyInfoInputs
 F:\GitHub\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.AssemblyInfo.cs
 F:\GitHub\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.dll
 F:\GitHub\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.pdb
+H:\github\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.csprojAssemblyReference.cache
+H:\github\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.csproj.CoreCompileInputs.cache
+H:\github\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.AssemblyInfoInputs.cache
+H:\github\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.AssemblyInfo.cs
+H:\github\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.dll
+H:\github\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.pdb

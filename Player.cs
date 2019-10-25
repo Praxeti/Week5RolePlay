@@ -3,9 +3,11 @@ namespace Week5RolePlay
 {
      class Player:Character
     {
-        public Player()
+        string classe;
+        public Player(decimal currentPosition):base(currentPosition)
         {
-
+            classe = "Normal Person";
         }
+
     }
 }

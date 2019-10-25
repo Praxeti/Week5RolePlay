@@ -4,14 +4,14 @@ namespace Week5RolePlay
     {
 
 
-       protected decimal currentPosition; 
+       public decimal currentPosition; 
        protected int health;
 
        protected int strength;
 
        protected int armour;
 
-       public Character()
+       public Character(decimal currentPosition)
        {
            currentPosition = 0m;
            health = 0;
