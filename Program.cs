@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic; //for lists
 
 namespace Week5RolePlay
 {
@@ -6,7 +7,8 @@ namespace Week5RolePlay
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-        }
+    List<Character> person = new List<Character>();   
+    person.Add (new Character());
+     }
     }
 }
