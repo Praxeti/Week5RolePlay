@@ -8,7 +8,8 @@ namespace Week5RolePlay
         static void Main(string[] args)
         {
     List<Character> person = new List<Character>();   
-    person.Add (new Character());
+    //person.Add (new Character());
+    Console.WriteLine("test");
      }
     }
 }

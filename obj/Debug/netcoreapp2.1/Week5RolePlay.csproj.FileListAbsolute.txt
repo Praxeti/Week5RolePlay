@@ -1,0 +1,11 @@
+F:\GitHub\Week5RolePlay\bin\Debug\netcoreapp2.1\Week5RolePlay.deps.json
+F:\GitHub\Week5RolePlay\bin\Debug\netcoreapp2.1\Week5RolePlay.runtimeconfig.json
+F:\GitHub\Week5RolePlay\bin\Debug\netcoreapp2.1\Week5RolePlay.runtimeconfig.dev.json
+F:\GitHub\Week5RolePlay\bin\Debug\netcoreapp2.1\Week5RolePlay.dll
+F:\GitHub\Week5RolePlay\bin\Debug\netcoreapp2.1\Week5RolePlay.pdb
+F:\GitHub\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.csprojAssemblyReference.cache
+F:\GitHub\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.csproj.CoreCompileInputs.cache
+F:\GitHub\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.AssemblyInfoInputs.cache
+F:\GitHub\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.AssemblyInfo.cs
+F:\GitHub\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.dll
+F:\GitHub\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.pdb
