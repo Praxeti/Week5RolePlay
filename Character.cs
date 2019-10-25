@@ -13,7 +13,7 @@ namespace Week5RolePlay
 
        public Character(decimal currentPosition)
        {
-           currentPosition = 0m;
+           this.currentPosition = currentPosition;
            health = 0;
            strength = 0;
            armour = 0;

@@ -15,3 +15,8 @@ H:\github\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.AssemblyInfoInputs
 H:\github\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.AssemblyInfo.cs
 H:\github\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.dll
 H:\github\Week5RolePlay\obj\Debug\netcoreapp2.1\Week5RolePlay.pdb
+H:\github\Week5RolePlay\bin\Debug\netcoreapp2.1\Week5RolePlay.deps.json
+H:\github\Week5RolePlay\bin\Debug\netcoreapp2.1\Week5RolePlay.runtimeconfig.json
+H:\github\Week5RolePlay\bin\Debug\netcoreapp2.1\Week5RolePlay.runtimeconfig.dev.json
+H:\github\Week5RolePlay\bin\Debug\netcoreapp2.1\Week5RolePlay.dll
+H:\github\Week5RolePlay\bin\Debug\netcoreapp2.1\Week5RolePlay.pdb
